@@ -1,0 +1,1 @@
+# C20Algoritmo-de-colisionador
